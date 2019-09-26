@@ -1,0 +1,17 @@
+Chaos Engineering - discipline for systematically minimizing bad luck
+
+Learn from real world outages
+
+Failure test your dependencies
+
+Traditional testing assumes we know the properties of a system.  We don't.
+
+Run experiments to discover how our systems really work.
+
+Types of chaos eng techniques
+* Failure Injection
+* Fuzz testing
+* Artificial resource constriction
+* Randomized load swings
+
+Run chaos engineering experiments on your human systems
