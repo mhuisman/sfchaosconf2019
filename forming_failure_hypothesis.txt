@@ -1,0 +1,16 @@
+slides - subbu.org
+
+what is the system?
+
+how do you form a hypothesis?
+
+how do you form ensure system safety?
+
+why should anyone listen to you?
+
+observability is relevant but not as relevant as learning from real world incidents
+
+how to prioritize?
+* pick most critical area
+* articulate value
+* how much revenue is the component under test responsible for?

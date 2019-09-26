@@ -1,0 +1,15 @@
+Chaos engineering to reduce impact of prod incidents
+
+"We aren't ready for chaos engineering"
+
+Can't influence/control everything, but can minimize impact of those things we can
+
+Expand set of things we can influence/control
+
+Market chaos engineering internally with blog posts / email newsletter
+
+Identify and test internal and external dependencies
+
+blameless post mortems
+* explore human factors
+* root cause analysis
