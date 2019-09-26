@@ -1,0 +1,19 @@
+How do you get started?
+
+Chaos engineering: injecting precise and measured amounts of harm to a system for the purpose of improving the systems reliability
+
+Evolve CE along with other best practices
+* observability
+* monitoring / alerting
+* incident response
+* blameless postmortems
+
+incidents - unplanned investments in companies' survival
+CE - planned investments ...
+ROI - understanding/learning
+turn chaos into stories and complete them
+
+chaos monkey for spring boot
+https://codecentric.github.io/chaos-monkey-spring-boot/
+
+"The best time to learn about fire is when you're on fire"
